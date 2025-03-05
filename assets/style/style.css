@@ -992,3 +992,7 @@ footer {
   z-index: 9998;
   background: transparent;
 }
+::selection{
+  background: #ffba00;
+  color: #141212;
+}
